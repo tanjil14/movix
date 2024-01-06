@@ -9,7 +9,7 @@ import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
 import PageNotFound from "./pages/404/PageNotFound";
 import { Details } from "./pages/details/Details";
-import { Explore } from "./pages/explore/Explore";
+import Explore from "./pages/explore/Explore";
 
 function App() {
   const dispatch = useDispatch();
